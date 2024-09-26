@@ -5,8 +5,7 @@ de varios intentos, no logré obtener resultados.
 
 Sin embargo, sé cómo utilizar Bootstrap y cómo agregar los enlaces y CSS correspondientes. Puede observar el ejemplo en la carpeta 
 "repasoproweb". La carpeta no está en GitHub porque es muy pesada, por lo que proporciono el enlace de Drive donde puede encontrar el 
-ejemplo que hice con Bootstrap: [enlace de Google Drive](https://drive.google.com/drive/folders/1vZ9aN6zB2oQvWQI-2YLUW4wYVWNkKWYt?
-usp=drive_link). 
+ejemplo que hice con Bootstrap: ( https://drive.google.com/drive/folders/1vZ9aN6zB2oQvWQI-2YLUW4wYVWNkKWYt?usp=sharing ) 
 
 Este es un ejemplo básico y diferente a la pregunta 2, solo para mostrar que el problema radicaba en la computadora del laboratorio. El 
 ejemplo fue realizado fuera del laboratorio.
