@@ -1,16 +1,12 @@
-iniciclamnete tengo 0 puntos en la pregunta nr2 la cual habia que realizar una pagina usando bostrap ............
-no he podido realizar la pregunta nr2 por motivos de que la pc del laboratorio donde me encontraba ,no tenia instalado el git 
-,he intentado instalar el git en la pc del laboratorio y al intentar hacer la pagina con bostrap el visual studios code 
-no reconocia el link del bostrap que se pone en el terminal (npm i bootstrap@5.3.3) ,, luego de intentar varias veces no he conseguido ningun resultado.
+actualmente tengo 0 puntos en la pregunta número 2, que consistía en realizar una página web usando Bootstrap. No pude completar la pregunta debido a que la computadora del laboratorio en la que me encontraba no tenía Git instalado. Intenté instalar Git, pero al intentar hacer la página con Bootstrap, Visual Studio Code no reconocía el enlace de Bootstrap que se ingresa en la terminal (npm i bootstrap@5.3.3). A pesar de varios intentos, no logré obtener resultados.
 
-....... pero si se utilizar el bostrap y se como poner sus respectivos links y css .etc......................................... 
-podra ver en la carpeta repasoproweb,,,,la carptea no esta en github porque es pesado , por eso mando el link de drive donde se encunetra
-este ejemplo que he realizado con boostrap (  https://drive.google.com/drive/folders/1vZ9aN6zB2oQvWQI-2YLUW4wYVWNkKWYt?usp=drive_link   ) 
-es un ejemplo basico y diferente a la pregunta 2 solo para ver que el problema era la pc del laboratorio donde me encontraba realizando 
-las preguntas. Este ejemplo lo he realizado fuera del laboratorio..........
+Sin embargo, sé cómo utilizar Bootstrap y cómo agregar los enlaces y CSS correspondientes. Puede observar el ejemplo en la carpeta "repasoproweb". La carpeta no está en GitHub porque es muy pesada, por lo que proporciono el enlace de Drive donde puede encontrar el ejemplo que hice con Bootstrap: [enlace de Google Drive](https://drive.google.com/drive/folders/1vZ9aN6zB2oQvWQI-2YLUW4wYVWNkKWYt?usp=drive_link). 
 
-Con este ejemplo no espero recibir puntaje, solamente es una justificacion de que hubiera podido realizar la pregunta numero 2 si la pc 
-donde me encontraba hubiera tenido todo instalado...
-.. (muchas gracias por su comprension) 
+Este es un ejemplo básico y diferente a la pregunta 2, solo para mostrar que el problema radicaba en la computadora del laboratorio. El ejemplo fue realizado fuera del laboratorio.
 
-numero de lista 88,, estudiante:Romulo Mateo Mamani Challapa
+Con este ejemplo no espero recibir puntaje, solo es una justificación de que hubiera podido completar la pregunta número 2 si la computadora hubiera tenido todo el software necesario instalado.
+
+Muchas gracias por su comprensión.
+
+Lista N° 88,  
+Estudiante: Rómulo Mateo Mamani Challapa
