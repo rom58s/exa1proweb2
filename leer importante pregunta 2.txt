@@ -1,5 +1,5 @@
 iniciclamnete tengo 0 puntos en la pregunta nr2 la cual habia que realizar una pagina usando bostrap ............
-no he podido realizar la pregunta numero dos por motivos de que la pc donde me encontraba no tenia instalado el git 
+no he podido realizar la pregunta nr2 por motivos de que la pc del laboratorio donde me encontraba ,no tenia instalado el git 
 ,he intentado instalar el git en la pc del laboratorio y luego al intentar hacer la pagina con bostrap el visual studios code 
 no reconocia el link del bostrap que se pone en el terminal (npm i bootstrap@5.3.3) ,, luego de intentar varias veces no he conseguido ningun resultado.
 
